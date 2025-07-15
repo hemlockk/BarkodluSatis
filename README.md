@@ -47,4 +47,8 @@ You can click on Stok Durumu to get check stock status on products:
 
 <img width="1746" height="883" alt="image" src="https://github.com/user-attachments/assets/435e6130-138f-4ede-82b0-a8a83e3a2f47" />
 
+Ürün Giriş will allow you to register products:
 
+<img width="1656" height="951" alt="image" src="https://github.com/user-attachments/assets/244eab2c-1052-417d-9320-78c29aadbf4a" />
+
+Çıkış Will exist
